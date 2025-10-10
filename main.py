@@ -9,6 +9,6 @@ print(string_join)
 string_strip = string.strip()
 print(string_strip)
 
-string_replace = string.replace(' ', '%20')
+string_replace = string.replace(' ', ', ')
 print(string_replace)
 
