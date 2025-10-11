@@ -17,3 +17,15 @@ print(string_strip)
 string_replace = string.replace(' ', ', ')
 print(string_replace)
 
+
+# Regex
+print(re.split(r'\W+', 'Words, words, words.'))
+
+print(re.split(r'(\W+)', 'Words, words, words.'))
+
+print(re.split(r'\W+', 'Words, words, words.', 1))
+
+print(re.split('[a-f]+', '0a3B9', flags=re.IGNORECASE))
+
+print(re.findall(r'\bf[a-z]*', 'which foot or hand fell fastest'))
+
