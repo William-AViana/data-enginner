@@ -1,3 +1,5 @@
+import re
+
 string = "  My name is William and i am learning data enginner."
 
 new_string = string.split(' ')
