@@ -1,6 +1,9 @@
 import re
 
 string = "  My name is William and i am learning data enginner."
+print(string[5])
+print(string[10:20])
+print(len(string))
 
 new_string = string.split(' ')
 print(new_string)
