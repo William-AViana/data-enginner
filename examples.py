@@ -100,3 +100,52 @@ print(new_copy_of_list)
 
 nested_list = [numbers, new_copy_of_list]
 print(nested_list[0])
+
+# Sets
+my_set = {1, 2, 3}
+#print(my_set)
+
+another_set = set([4, 5, 6, 7])
+#print(another_set)
+
+unique_set = {1, 2, 3, 3, 4, 5, 5, 6, 6, 7}
+print(unique_set)
+
+# Basic operator
+set_a = {1, 2, 3}
+set_b = {3, 4, 5}
+
+# Union
+union_resul = set_a | set_b # or use set_a,union(set_b)
+print(union_resul)
+
+# Intersection
+intersection_result = set_a & set_b # or use set_a.intersection(set_b)
+print(intersection_result)
+
+# Difference
+difference_result = set_a - set_b # or use set_a.difference(set_b)
+print(difference_result)
+
+# Symmetric Difference
+symmetric_result = set_a ^ set_b
+print(symmetric_result)
+
+# Sets methods
+my_set.add(4)
+print(my_set)
+
+my_set.remove(2)
+print(my_set)
+
+my_set.discard(3)
+print(my_set)
+
+my_set.clear()
+print(my_set)
+
+my_set =  {1, 2, 3, 4}
+print(2 in my_set)
+print(5 in my_set)
+
+print(len(my_set))
