@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5476d15-e914-4dbb-b8de-8fca606952e7" name="Changes" comment="update file">
+    <list default="true" id="f5476d15-e914-4dbb-b8de-8fca606952e7" name="Changes" comment="update .gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -97,7 +98,7 @@
       <workItem from="1760138323383" duration="502000" />
       <workItem from="1760138859927" duration="3596000" />
       <workItem from="1760290128123" duration="13890000" />
-      <workItem from="1760361822553" duration="601000" />
+      <workItem from="1760361822553" duration="2122000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -187,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760313157937</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update file on workspace">
+      <option name="closed" value="true" />
+      <created>1760365572773</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1760365572773</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update .gitignore">
+      <option name="closed" value="true" />
+      <created>1760366880488</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1760366880488</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,10 +235,12 @@
     <MESSAGE value="update learning sets" />
     <MESSAGE value="comment prints" />
     <MESSAGE value="update file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update file" />
+    <MESSAGE value="update file on workspace" />
+    <MESSAGE value="update .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update .gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/data_enginner$examples.coverage" NAME="examples Coverage Results" MODIFIED="1760310979849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_enginner$examples.coverage" NAME="examples Coverage Results" MODIFIED="1760366284546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_enginner$main.coverage" NAME="main Coverage Results" MODIFIED="1760307202725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
