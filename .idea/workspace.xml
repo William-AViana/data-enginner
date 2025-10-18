@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5476d15-e914-4dbb-b8de-8fca606952e7" name="Changes" comment="update .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/data-enginner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-enginner.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +63,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/william/HDSe/Estudos/python/data-enginner/.venv/pyvenv.cfg",
+    "last_opened_file_path": "/media/william/HDSe/Estudos/python/backend-python-postgrsql",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,6 +82,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
         <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
@@ -101,6 +100,8 @@
       <workItem from="1760138859927" duration="3596000" />
       <workItem from="1760290128123" duration="13890000" />
       <workItem from="1760361822553" duration="9068000" />
+      <workItem from="1760577015801" duration="50000" />
+      <workItem from="1760747685126" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
